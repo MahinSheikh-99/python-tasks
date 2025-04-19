@@ -1,2 +1,2 @@
 # python-tasks
- classes tasks
+Python Tasks in this repository.
