@@ -1,3 +1,4 @@
+# function with Arguments
 def add (x,y) :
     z = x + y
     print("addition is ",z)
