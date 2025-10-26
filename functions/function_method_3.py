@@ -1,5 +1,8 @@
 # Function with Parameters and Arguments
 
+'''A parameter is the variable listed inside the parentheses in the function definition.
+An argument is the actual value that is sent to the function when it is called.'''
+
 # Define a function to add two numbers
 def add(x, y):
     z = x + y              # Add x and y, store the result in z
